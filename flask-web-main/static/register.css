@@ -1,0 +1,10 @@
+.alert-warning {
+    color: #fa0c0c;
+    background-color: #ffb1c1;
+    border-color: #ffb1c1;
+}
+
+
+.alert {
+    margin-left: 1rem;
+}
